@@ -1,0 +1,11 @@
+code,name,symbol,rate,last_updated
+USD,US Dollar,$,1.0,2023-11-15
+EUR,Euro,€,0.92,2023-11-15
+GBP,British Pound,£,0.79,2023-11-15
+JPY,Japanese Yen,¥,149.53,2023-11-15
+INR,Indian Rupee,₹,83.24,2023-11-15
+AUD,Australian Dollar,A$,1.53,2023-11-15
+CAD,Canadian Dollar,C$,1.37,2023-11-15
+CHF,Swiss Franc,CHF,0.88,2023-11-15
+CNY,Chinese Yuan,¥,7.24,2023-11-15
+NZD,New Zealand Dollar,NZ$,1.67,2023-11-15
